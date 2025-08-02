@@ -1,0 +1,3 @@
+com\ai\merch\controller\ProductController.class
+com\ai\merch\model\Product.class
+com\ai\merch\FakePublisherApplication.class
