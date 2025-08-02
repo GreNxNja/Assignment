@@ -96,4 +96,3 @@ AI-Merch-Maker-Lite/
 - [x] Image mockup rendering
 - [x] Java backend simulation
 - [x] Shopify API product uploader (with image)
-- [ ] Fully automated end-to-end flow (future work)
